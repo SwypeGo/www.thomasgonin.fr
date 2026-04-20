@@ -1273,7 +1273,7 @@ h3 {
 
    .hero-moi {
     text-align: center;
-    align-items: center;
+    align-content: center;
     justify-items: center;
   }
 
