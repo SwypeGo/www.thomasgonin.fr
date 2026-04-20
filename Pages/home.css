@@ -1271,6 +1271,12 @@ h3 {
     text-align: center;
   }
 
+   .hero-moi {
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+  }
+
   .hero-text {
     margin-top: 10%;
     align-items: center;
